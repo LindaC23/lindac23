@@ -2,7 +2,7 @@
 
 🎓 Sophomore at Cornell University, studying Computer Science
 
-✨ Interests: Dancing, Video Editing, Commonplace Journalling, New York Times Connections
+✨ Interests: Dancing, Video Editing, Commonplace Journaling, New York Times Connections
 
 Hi, I’m Linda Chen, a Computer Science student at Cornell University with a passion for technology and problem-solving. I'm interested in exploring and contributing to the technology field, especially in areas like software development, web development, and artificial intelligence!
 
