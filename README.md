@@ -6,7 +6,7 @@
 
 Hi, I’m Linda Chen, a Computer Science student at Cornell University with a passion for technology and problem-solving. I'm interested in exploring and contributing to the technology field, especially in areas like software development, web development, and artificial intelligence!
 
-🛠 Languages: Java (Intermediate), HTML, CSS, JavaScript (Beginner), Python (Beginner), Linux (Beginner) 
+🛠 Languages: Java, HTML, CSS, JavaScript, Python, Linux, OCaml
 
 📫 How to Reach Me:
 
