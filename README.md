@@ -12,7 +12,7 @@ Hi, I’m Linda Chen, a Computer Science student at Cornell University with a pa
 
 Email: lc2249@cornell.edu
 
-LinkedIn: www.linkedin.com/in/linda-chen-4b8887267/
+LinkedIn: www.linkedin.com/in/linda-chen23/
 
 <!--
 **LindaC23/lindac23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
