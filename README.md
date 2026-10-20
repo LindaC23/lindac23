@@ -6,9 +6,12 @@
 
 Hi, I’m Linda Chen, a Computer Science student at Cornell University with a passion for technology and problem-solving. I'm interested in exploring and contributing to the technology field, especially in areas like software development, web development, and artificial intelligence!
 
-🛠 Languages: Java, HTML, CSS, JavaScript, Python, Linux, OCaml
+Programming Languages: Java, Python, HTML/CSS, JavaScript, SQL, OCaml, C
 
-📫 How to Reach Me:
+Frameworks & Technologies: React, Node.js, Angular, JUnit, Git, Google Colab, pandas, NumPy, Matplotlib,
+ServiceNow, Gitlab
+
+How to Reach Me:
 
 Email: lc2249@cornell.edu
 
